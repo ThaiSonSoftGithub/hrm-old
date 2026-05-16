@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Hrm.Api/Hrm.Api.csproj" />
+  </Folder>
+</Solution>
